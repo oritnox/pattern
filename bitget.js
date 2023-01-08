@@ -4,7 +4,7 @@
 // @description 비트겟 선물 단축키 매매
 // @include 	https://www.bitget.com/*
 // @include 	https://www.bitget.com/*
-// @version     1.001
+// @version     1.002
 // @grant       none
 // @downloadURL
 // @updateURL
